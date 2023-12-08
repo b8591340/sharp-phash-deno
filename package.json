@@ -24,7 +24,7 @@
   ],
   "author": "Denis Bardadym <bardadymchik@gmail.com>",
   "license": "MIT",
-  "peerDependencies": {
+  "dependencies": {
     "sharp": "^0.33.0"
   },
   "devDependencies": {
